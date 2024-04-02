@@ -1,0 +1,17 @@
+----------------- LIBRERIE MAVEN -------------------
+
+----------------- APACHE COMMON LANGS --------------
+<dependency>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-lang3</artifactId>
+    <version>3.12.0</version>
+</dependency>
+
+
+--------------- POSTGRESQL -------------------------
+
+            <dependency>
+                <groupId>org.postgresql</groupId>
+                <artifactId>postgresql</artifactId>
+                <version>42.5.4</version>
+            </dependency>
