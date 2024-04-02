@@ -1,6 +1,6 @@
 # 📚 Progetto BD 2022/23: BiblIOtech
 
-#### ↬ "Basi Di Dati": **_Progettazione e sviluppo di una Base di Dati per la gestione di una Biblioteca Online**
+#### ↬ "Basi Di Dati": **Progettazione e sviluppo di una Base di Dati per la gestione di una Biblioteca Online**
 
 ## 📑 *Organizzazione e Scelte Progettuali*
 
