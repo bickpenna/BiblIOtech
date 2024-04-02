@@ -1,6 +1,6 @@
 # 📚 Progetto 2022/23: BiblIOtech
 
-### _Progettazione e sviluppo di un applicativo ed una base di dati per la gestione di una Biblioteca Online_
+### _Progettazione e sviluppo di un applicativo e di una base di dati per la gestione di una Biblioteca Online_
 
 ## ©️ *Contribuenti*
 🧑🏻‍💼  [Mario Penna](https://github.com/bickpenna/)
